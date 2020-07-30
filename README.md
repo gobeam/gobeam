@@ -1,4 +1,3 @@
-<kbd>![](https://raw.githubusercontent.com/gobeam/gobeam/master/images/penup.jpg)</kbd>
 # Hey there! I'm Roshan Ranabhat (_gobeam_)
 
 ### About Me 
@@ -11,11 +10,12 @@ A full stack web developer who specializes on stacks like GOLANG, Node.js, React
   ![Go](https://img.shields.io/badge/-Go-333333?style=flat&logo=go)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
-- :arrows_clockwise: &nbsp;
+- 🔗 &nbsp;
 ![Blockchain](https://img.shields.io/badge/-Blockchain-333333?style=flat)
 ![Solidity](https://img.shields.io/badge/-Solidity-333333?style=flat&logo=solidity)
 - 🌐 &nbsp;
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+  ![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=redux)
   ![Vue.js](https://img.shields.io/badge/-Vue.js-333333?style=flat)
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
