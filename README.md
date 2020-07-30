@@ -1,9 +1,9 @@
-<kbd>![](images/penup.jpg)</kbd>
+<kbd>![](https://raw.githubusercontent.com/gobeam/gobeam/master/images/penup.jpg)</kbd>
 # Hey there! I'm Roshan Ranabhat (_gobeam_)
 
 ### About Me 
 
-A full stack web developer who specializes on stacks like GOLANG, Node.js, Reactjs & Redux, Vue.js and PHP. I am also Blockchain enthusiast and have worked on both Ethereum and Bitcoin blockchain networks for developing smart contracts, crypto trades web apps and services. 
+A full stack web developer who specializes on stacks like GOLANG, Node.js, Reactjs & Redux, Vue.js and PHP. I am also Blockchain enthusiast and have worked on both Ethereum and Bitcoin Blockchain networks for developing smart contracts, crypto trades web apps and services. 
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -11,7 +11,7 @@ A full stack web developer who specializes on stacks like GOLANG, Node.js, React
   ![Go](https://img.shields.io/badge/-Go-333333?style=flat&logo=go)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
-- 💻 &nbsp;
+- :arrows_clockwise: &nbsp;
 ![Blockchain](https://img.shields.io/badge/-Blockchain-333333?style=flat)
 ![Solidity](https://img.shields.io/badge/-Solidity-333333?style=flat&logo=solidity)
 - 🌐 &nbsp;
