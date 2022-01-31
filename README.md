@@ -2,8 +2,8 @@
 
 ### About Me 
 
-A full-stack web developer who specializes in stacks like GOLANG, Node.js, Reactjs & Redux, Vue.js, and PHP. I am also a Blockchain enthusiast and have worked on both Ethereum and Bitcoin Blockchain networks for developing smart contracts, crypto trades web apps, and services.
-![](https://komarev.com/ghpvc/?username=gobeam&color=#39af9f)
+A full-stack web developer who specializes in stacks like GOLANG, Node.js, Reactjs & Redux, Vue.js, and PHP. I am also a Blockchain enthusiast and have worked on both Ethereum and Bitcoin Blockchain networks for developing smart contracts, crypto trades web apps, and services. <br>
+![](https://komarev.com/ghpvc/?username=gobeam&color=green)
 
 ### 🛠 &nbsp;Tech Stack
 
